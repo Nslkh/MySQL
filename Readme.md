@@ -54,3 +54,9 @@
 
 ## SubQueries
 ![](https://hosty.xxx/i/18895e711a3d2a9e6737e73c93a1ee9102ed4464.jpg)
+
+## Insert Stmt
+![](https://hosty.xxx/i/f9d116936a6894d76c171372e4399f06afa76943.jpg)
+
+## Update stmt
+![](https://hosty.xxx/i/3c8ff752dac4c2d646119fa9f35302d39057c1ab.jpg)
