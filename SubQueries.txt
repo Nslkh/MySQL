@@ -1,0 +1,13 @@
+SELECT * 
+FROM `movies`
+WHERE year IN (1986, 1999, 2000)
+
+SELECT * 
+FROM `movies`
+WHERE genre_id IN (SELECT genre_id FROM genres WHERE genre_title = "Fantasy")
+
+SELECT * 
+FROM `movies`
+WHERE genre_id IN (SELECT genre_id 
+                   FROM genres
+                   WHERE genre_title IN ( "Fantasy", "Horror", "Sci-Fi") )

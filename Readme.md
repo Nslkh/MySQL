@@ -51,3 +51,6 @@
 
 ## LIMIT keyword
 ![](https://hosty.xxx/i/ab9ed380ec83ae890d5e62db151c1494dd251af3.jpg)
+
+## SubQueries
+![](https://hosty.xxx/i/18895e711a3d2a9e6737e73c93a1ee9102ed4464.jpg)
