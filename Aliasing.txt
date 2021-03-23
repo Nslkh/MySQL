@@ -1,2 +1,3 @@
 SELECT  m.movie_title AS title, m.director AS dir, m.genre_id AS genre 
 FROM `movies`  AS m
+WHERE m.movie_title LIKE "%n%"
