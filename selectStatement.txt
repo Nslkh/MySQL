@@ -1,0 +1,30 @@
+```Select Statement`````
+
+
+SELECT movie_id, movie_title, director
+FROM movies
+WHERE movie_id = 17    [ ! = 17]
+
+
+SELECT movie_id, movie_title, director
+FROM movies
+WHERE movie_title LIKE "%g%"
+
+
+SELECT movie_id, movie_title, director
+FROM movies
+WHERE movie_title LIKE "%t%"
+And director LIKE "%Luc%"
+
+
+SELECT movie_id, movie_title, director, year
+FROM movies
+WHERE movie_title LIKE "%t%"
+And (director LIKE "%Luc%"
+OR director LIKE "Dean%")
+ORDER BY year DESC  ACS is by default 
+
+SELECT movie_id, movie_title, director, year
+FROM movies
+WHERE movie_title LIKE "%t%"
+ORDER BY year ASC,  director DESC
