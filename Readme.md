@@ -1,7 +1,42 @@
-What you will learn 
+# What You will learn
+## Lesson Content
 
-1- Select Statements
-2-Aliasing
-3- Limit Keywoards
-## Screenshots
-https://hosty.xxx/i/4fc232e985c2dcb213a2ede88115b4e209100996.jpg
+- Getting Started
+- Select Statements
+- Aliasing
+- LIMIT keywoard
+- SubQueries
+- INSERT Statements
+- UPDATE Statements
+- Delete Statements
+- REPLACE Statements
+- INNER JOINs
+- Aggregrate Functions
+- GROUP BY
+- String Functions
+- Numeric Functions
+- Numeric Data Types
+- Data Types for Times and Dates
+- String and Binary Datatypes
+- DROP TABLE Command
+- UNION Statements
+- SHOW, DESCRIBE, EXPLAIN and SET
+- CREATE TABLE
+- ALTER TABLE
+- Filtering with BETWEEN
+- Filtering with IN vs equals
+- Using Indexes
+- FOREIGN KEY CONSTRAINTS
+- Date and Time Functions
+- LEFT, RIGHT, and self JOINs
+- Stored Functions
+- Multiple JOINs
+- CREATE VIEW
+- Encryption, Hashing, and Compressing
+- CASE Operator 
+- IF and NULLIF Functions
+- Stored Procedures
+- User Accounts
+- Mysql CLI
+- Triggers
+- JSON in MySQL
