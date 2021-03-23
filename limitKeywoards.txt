@@ -1,0 +1,7 @@
+SELECT movie_id, movie_title, year
+FROM `movies`
+ORDER BY movie_id
+LIMIT 5, 5
+-- STARTING after number x get y records
+-- LIMIT x, y
+-- LIMIT y
