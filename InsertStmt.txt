@@ -1,0 +1,9 @@
+INSERT 
+INTO movies(movie_title, director, year, genre_id)
+VALUES ( 'Sign Fiction', 'John Fiction', 2021, 5 )
+
+INSERT INTO `movies`( `movie_title`, `director`, `year`, `genre_id`)
+VALUES ('Some Movie', 'directror name', 2021, 
+       (SELECT genre_id FROM genres
+        WHERE genre_title = 'Drama'
+       LIMIT 1))
