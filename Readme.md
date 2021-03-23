@@ -43,8 +43,11 @@
 
 ## ScreenShots
 
-###SELECT Statements
+## SELECT Statements
 ![](https://hosty.xxx/i/7139555bb6b18f34c494c6508c28902618fede18.jpg)
 
-###Aliasing
-![](https://hosty.xxx/i/7139555bb6b18f34c494c6508c28902618fede18.jpg))
+## Aliasing
+![](https://hosty.xxx/i/7139555bb6b18f34c494c6508c28902618fede18.jpg)
+
+## LIMIT keyword
+![](https://hosty.xxx/i/ab9ed380ec83ae890d5e62db151c1494dd251af3.jpg)
